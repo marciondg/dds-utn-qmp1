@@ -1,8 +1,10 @@
-package domain;
+package domain.prenda;
 
 public enum MaterialPrenda {
   ALGODON,
   JEAN,
   CUERO,
-  POLIESTER
+  POLIESTER,
+  LANA,
+  METAL
 }

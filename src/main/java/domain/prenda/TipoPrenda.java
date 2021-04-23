@@ -1,4 +1,4 @@
-package domain;
+package domain.prenda;
 
 public enum TipoPrenda {
 
@@ -19,5 +19,9 @@ public enum TipoPrenda {
 
   TipoPrenda(CategoriaPrenda categoria) {
     this.categoria = categoria;
+  }
+
+  public CategoriaPrenda getCategoria() {
+    return categoria;
   }
 }
