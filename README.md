@@ -11,6 +11,10 @@ Esta es una plantilla de proyecto diseñada para:
 
 # [Enunciado](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ/edit)
 
+# Diagrama de Clases
+
+![Alt Text](https://lucid.app/publicSegments/view/f6bfabf0-92e3-4413-b431-3630b5702813/image.jpeg "Diagrama de Clases")
+
 # Ejecutar tests
 
 ```
